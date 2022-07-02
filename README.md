@@ -6,7 +6,7 @@ Emilio Maddalena, July 2022.
 
 ## Brief Description 
 
-HVAC system data (7k+ points) from an industrial plant located in Campo Grande, Brazil. The time-series dataset is composed mainly of continuous features, with only a few exceptions.
+HVAC system data (7k+ points) from an industrial plant located in Campo Grande, Brazil. The time-series dataset is composed mainly of continuous features, with only a few exceptions. The sampling period is 10 mins.
 
 ## Long Description 
 
@@ -26,13 +26,11 @@ In principle, the HVAC system can only cool down the environment. However, if th
 
 **Sampling period**: 10 minutes.
 
-## Folders/Files
+## Folders
 
-:file_folder: **data**: contains the data files.
+:file_folder: **data**: contains the data file ``riskbr_data.csv``.
 
-``riskbr_data.csv``: The project dataset.
-
-:file_folder: **docs**: contains additional diagrams to better illustrate the system architecture as well as some nice pictures :).
+:file_folder: **misc**: contains additional diagrams and pictures the cooling system and the hospital rooms.
 
 ## Measurements
 
