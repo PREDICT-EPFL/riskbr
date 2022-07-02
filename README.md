@@ -6,7 +6,7 @@ Emilio Maddalena, July 2022.
 
 ## Citing our Work
 
-This dataset was gathered for the RISK project (SNF grant number 200021 17562). If you make use of it for your own research, make sure to cite
+This dataset was gathered for the RISK project (SNF grant number 200021 17562). If you use of it for your own research, remember to cite
 
 ```
 @misc{maddalena2021,
