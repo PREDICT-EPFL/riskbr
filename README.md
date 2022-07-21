@@ -9,7 +9,7 @@ Emilio Maddalena, July 2022.
 This dataset was gathered for the RISK project (SNF grant number 200021 17562). If you use of it for your own research, remember to cite
 
 ```
-@misc{maddalena2021,
+@misc{maddalena2022,
 author = {Maddalena, Emilio T and Muller, Silvio A and Santos, Rafael M dos and Salzmann, Christophe and Jones, Colin N},
 title = {Experimental Data-Driven Model Predictive Control of a Hospital HVAC System During Regular Use},
 year = {2022},
